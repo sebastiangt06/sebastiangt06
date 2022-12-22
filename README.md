@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my own projects, looking to collaborate on companies where i can <br>offer my skills in order to improve the company level and also learn a lot, improving my <br>skills, soft skills and team work!<br><br>I'm a passionate developer, with a great desire to develop and create incredible things, <br>with the help of a team in which I can offer a lot of my talent.<br><br>I'm currently learning Django, delving into ReactJs and NodeJs with ExpressJs.
+I'm currently working on my own projects, looking to collaborate on companies where i can <br>offer my skills in order to improve the company level and also learn a lot, improving my <br>skills, soft skills and team work!<br><br>I'm a passionate developer, with a great desire to develop and create incredible things, <br>with the help of a team in which i would offer a lot of my talent.<br><br>I'm currently learning Django, delving into ReactJs and NodeJs with ExpressJs.
 
 
 ## 🌐 Socials:
