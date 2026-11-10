@@ -26,44 +26,43 @@ Currently, I'm expanding my expertise in cloud architecture, distributed systems
 
 ## 🚀 What I Do
 
-💻 Backend & Software Architecture
+**💻 Backend & Software Architecture**
 
-🔹 Design and develop scalable RESTful APIs using ASP.NET Core, Node.js, Express.js, and Spring Boot.
-🔹 Design maintainable applications using Clean Architecture, SOLID, and Clean Code principles.
-🔹 Build microservices and modular backend systems.
-🔹 Implement design patterns, dependency injection, CQRS, and maintainable application layers.
-🔹 Develop serverless applications using AWS Lambda and AWS cloud services.
+- Design and develop scalable RESTful APIs using ASP.NET Core, Node.js, Express.js, and Spring Boot.
+- Design maintainable applications using Clean Architecture, SOLID, and Clean Code principles.
+- Build microservices and modular backend systems.
+- Implement design patterns, dependency injection, CQRS, and maintainable application layers.
+- Develop serverless applications using AWS Lambda and AWS cloud services.
 
-🎨 Frontend Development
+**🎨 Frontend Development**
 
--🔹 Build modern web applications using React, Angular, TypeScript, and Astro.
--🔹 Develop reusable components and modular frontend architectures.
--🔹 Create responsive interfaces using modern UI libraries and frameworks.
+- Build modern web applications using React, Angular, TypeScript, and Astro.
+- Develop reusable components and modular frontend architectures.
+- Create responsive interfaces using modern UI libraries and frameworks.
 
-☁️ Cloud & Databases
+**☁️ Cloud & Databases**
 
--🔹 Work with AWS services, serverless architectures, and cloud deployments.
--🔹 Containerize applications using Docker.
--🔹 Design and optimize relational and NoSQL databases: SQL Server, PostgreSQL, MongoDB, and DynamoDB.
--🔹 Work with Entity Framework Core, ORM frameworks, migrations, and data access patterns.
+- Work with AWS services, serverless architectures, and cloud deployments.
+- Containerize applications using Docker.
+- Design and optimize relational and NoSQL databases: SQL Server, PostgreSQL, MongoDB, and DynamoDB.
+- Work with Entity Framework Core, ORM frameworks, migrations, and data access patterns.
 
-🤖 AI & Agentic Development
+**🤖 AI & Agentic Development**
 
--🔹 AI-assisted software development using Claude Code, Google Antigravity, and OpenCode.
--🔹 Local LLM execution and experimentation using Ollama and LM Studio.
--🔹 Spec-Driven Development (SDD) and structured AI-driven development workflows.
--🔹 Agentic development using specialized agents, reusable Skills, custom commands, and project-specific instructions.
--🔹 Specification writing, technical planning, task decomposition, and implementation workflows.
--🔹 AI integration into backend services, APIs, and web applications.
--🔹 LLM-powered applications, intelligent agents, and automation workflows.
--🔹 AI-assisted code review, debugging, refactoring, and testing.
+- AI-assisted software development using Claude Code, Google Antigravity, and OpenCode.
+- Local LLM execution and experimentation using Ollama and LM Studio.
+- Spec-Driven Development (SDD) and structured AI-driven development workflows.
+- Agentic development using specialized agents, reusable Skills, custom commands, and project-specific instructions.
+- Specification writing, technical planning, task decomposition, and implementation workflows.
+- AI integration into backend services, APIs, and web applications.
+- LLM-powered applications, intelligent agents, and automation workflows.
+- AI-assisted code review, debugging, refactoring, and testing.
 
-🛠️ Engineering Practices & Tools
+**🛠️ Engineering Practices & Tools**
 
--🔹 Apply SOLID, Clean Code, and software design patterns.
--🔹 Use Git and GitHub for version control and collaborative development.
--🔹 Focus on maintainability, scalability, testing, and software quality.
-
+- Apply SOLID, Clean Code, and software design patterns.
+- Use Git and GitHub for version control and collaborative development.
+- Focus on maintainability, scalability, testing, and software quality.
 ---
 
 ## 🌐 Connect with Me
