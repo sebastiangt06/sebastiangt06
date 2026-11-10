@@ -28,11 +28,11 @@ Currently, I'm expanding my expertise in cloud architecture, distributed systems
 
 💻 Backend & Software Architecture
 
--🔹 Design and develop scalable RESTful APIs using ASP.NET Core, Node.js, Express.js, and Spring Boot.
--🔹 Design maintainable applications using Clean Architecture, SOLID, and Clean Code principles.
--🔹 Build microservices and modular backend systems.
--🔹 Implement design patterns, dependency injection, CQRS, and maintainable application layers.
--🔹 Develop serverless applications using AWS Lambda and AWS cloud services.
+🔹 Design and develop scalable RESTful APIs using ASP.NET Core, Node.js, Express.js, and Spring Boot.
+🔹 Design maintainable applications using Clean Architecture, SOLID, and Clean Code principles.
+🔹 Build microservices and modular backend systems.
+🔹 Implement design patterns, dependency injection, CQRS, and maintainable application layers.
+🔹 Develop serverless applications using AWS Lambda and AWS cloud services.
 
 🎨 Frontend Development
 
